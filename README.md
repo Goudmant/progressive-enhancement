@@ -56,41 +56,41 @@ Quand bien même, le fermier répond, “Est-ce un bien? Est-ce un mal? Je ne sa
 En résumé, représentons ce dialogue sous forme de tableau
 
 <table>
-   
+
    <caption>Tableau représentant la philosophie du fermier.</caption>
 
    <tr>
 
-      <th>Evénement</th>
-      <th>Bien ouu Mal ? </th>
+      <td>Evénement</td>
+      <td>Bien ou Mal ?</td>
    
    </tr>
 
    <tr>
       
-      <th>Perdre son cheval/th>
-      <th>Cela dépend</th>
+      <td>Perdre son cheval</td>
+      <td>Cela dépend</td>
    
    </tr>
 
    <tr>
 
-      <th>Gagner 7 chevaux</th>
-      <th>Cela dépend</th>
+      <td>Gagner 7 chevaux</td>
+      <td>Cela dépend</td>
 
    </tr>
 
    <tr>
 
-      <th>le fils se blesse</th>
-      <th>Cela dépend</th>
+      <td>le fils se blesse</td>
+      <td>Cela dépend</td>
 
    </tr>
 
    <tr>
 
-      <th>Evite la guerre</th>
-      <th>Cela dépend</th>
+      <td>Evite la guerre</td>
+      <td>Cela dépend</td>
 
    </tr>
 
