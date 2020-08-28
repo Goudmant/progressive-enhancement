@@ -1,15 +1,15 @@
-<h1>Est-ce un bien? Est-ce un mal? Je ne sais pas.<h1>
+<h1><q>Est-ce un bien? Est-ce un mal? Je ne sais pas.</h1></q>
 11 mai 2016, Alexandre Gorius
-Dans la nature, Bien & mal n’existent pas. L'Univers lui-même n'est ni bon ni mauvais, mais un potentiel en développement permanent.
+<blockquote> la nature, Bien & mal n’existent pas. L'Univers lui-même n'est ni bon ni mauvais, mais un potentiel en développement permanent.</blockquote>
 
 
 <h2>Dans la vie, il y a 4 types de personnes.
 - les gens qui pensent qu'Internet c'est bien,
 - les gens qui pensent qu'Internet c'est le mal,
 - les gens qui pensent qu'Internet ce sont des chats,
-- les gens qui n'y pensent pas.<h2>
+- les gens qui n'y pensent pas.</h2>
 
-<img>[ Image : https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg ]<img>
+<img>[ Image : https://cdn-images-1.medium.com/max/1000/1*2PCmLZyzQaF2pyKYkSTFpA.jpeg ]</img>
 
 Du point de vue de ce rocher sur Mars, rien ne se soucie de vos problèmes. Là haut, ça n’a pas d’importance, il n'y a aucun "problème", tout est comme cela doit être.
 
@@ -17,7 +17,7 @@ Ici bas, la seule réalité qui soit est celle de notre conscience. Rien n’exi
 
 Il y a des preuves à cela. Tombez amoureux de quelqu’un et vous aurez une vision quasi divine de cette personne. Sortez de son emprise, cette personne se révèle différente. Pourtant elle n’a pas changé, seulement vous avez changé d’état d’esprit. Tout fonctionne de cette manière : ce n’est pas seulement que vous pouvez activement façonner votre monde de cette manière, c’est que vous le faites passivement, quoi qu’il arrive.
 
-<img>[ Image : http://static2.businessinsider.com/image/52fe8230eab8ea4275063b89/nasa-has-determined-where-the-mysterious-jelly-doughnut-rock-on-mars-came-from.jpg légende: "qu'en pense-t-il?" ]<img>
+<img>[ Image : http://static2.businessinsider.com/image/52fe8230eab8ea4275063b89/nasa-has-determined-where-the-mysterious-jelly-doughnut-rock-on-mars-came-from.jpg légende: "qu'en pense-t-il?" ]</img>
 Le rocher sur Mars ne fait pas la différence entre bien et mal, car pour lui, ni l’un ni l’autre n’existent.
 Tout est relatif à un point de vue. Ainsi, il n’existe pas de bien ni de mal, car bien et mal sont des valeurs absolues. Si quelque chose est bon d’après quelqu’un et mal d’après quelqu’un d’autre, alors cette chose n’est en elle-même ni bonne, ni mal. Rappelez-vous : d’après ce rocher sur Mars, il n’y a pas de séparation entre bien et mal, les deux n’existent jute pas.
 
@@ -25,7 +25,7 @@ Tout est relatif à un point de vue. Ainsi, il n’existe pas de bien ni de mal,
 
 Une histoire chinoise célèbre illustre parfaitement ce propos.
 
-<img>[ Image : https://cdn-images-1.medium.com/max/800/1*IQqkmPXYZuJViY5p-ymk0A.jpeg  légende: "Le vieux fermier chinois" ]<img>
+<img>[ Image : https://cdn-images-1.medium.com/max/800/1*IQqkmPXYZuJViY5p-ymk0A.jpeg  légende: "Le vieux fermier chinois" ]</img>
 
 C’est l’histoire d’un fermier qui possède un cheval. Un jour, le cheval s’enfuit. Les villageois s’ameutent à la maison du fermier pour lui remonter le moral.
 
@@ -55,6 +55,46 @@ Quand bien même, le fermier répond, “Est-ce un bien? Est-ce un mal? Je ne sa
 
 En résumé, représentons ce dialogue sous forme de tableau
 
+<table>
+   
+   <caption>Tableau représentant la philosophie du fermier.</caption>
+
+   <tr>
+
+      <th>Evénement</th>
+      <th>Bien ouu Mal ? </th>
+   
+   </tr>
+
+   <tr>
+      
+      <th>Perdre son cheval/th>
+      <th>Cela dépend</th>
+   
+   </tr>
+
+   <tr>
+
+      <th>Gagner 7 chevaux</th>
+      <th>Cela dépend</th>
+
+   </tr>
+
+   <tr>
+
+      <th>le fils se blesse</th>
+      <th>Cela dépend</th>
+
+   </tr>
+
+   <tr>
+
+      <th>Evite la guerre</th>
+      <th>Cela dépend</th>
+
+   </tr>
+
+</table>
    +-------------------+---------------------+
    |                   |                     |
    | Evénement         |  Bien ou Mal ?      |
@@ -71,7 +111,7 @@ En résumé, représentons ce dialogue sous forme de tableau
    |                   |                     |
    | Evite la guerre   |  Cela dépend        |
    +-------------------+---------------------+
-   Tableau représentant la philosophie du fermier.
+   
    
    
 Conclusion  
