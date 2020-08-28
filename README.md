@@ -57,12 +57,12 @@ En résumé, représentons ce dialogue sous forme de tableau
 
 <table>
 
-   <caption>Tableau représentant la philosophie du fermier.</caption>
+          <caption>Tableau représentant la philosophie du fermier.</caption>
 
    <tr>
 
-      <td>Evénement</td>
-      <td>Bien ou Mal ?</td>
+      <th>Evénement</th>
+      <th>Bien ou Mal ?</th>
    
    </tr>
 
