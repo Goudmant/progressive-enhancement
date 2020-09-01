@@ -1,0 +1,72 @@
+
+
+
+/* index.css */
+
+h1 {
+    color: rgb(0, 90, 66);
+    font-family: sans-serif;
+    font-size: 60px; 
+    
+    
+    }
+
+
+body {
+        font-family:Arial, Helvetica, sans-serif ;
+        letter-spacing: 5%;
+        color: rgb(1, 44, 44);
+        width: 90%;
+        margin: 5%; 
+        background: -webkit-linear-gradient(90deg, rgb(22, 135, 237), rgb(20, 55, 90));
+        background: linear-gradient(90deg, rgb(22, 135, 237), rgb(20, 55, 90));
+        background-image: url(https://cdn.pixabay.com/photo/2017/08/28/19/15/background-2691002_960_720.jpg);
+        background-repeat: no-repeat; 
+        background-position: bottom right;
+        background-size: cover;
+    }
+
+blockquote {
+        font-size: 160%;
+        color: rgb(3, 3, 3);
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        margin: center;
+        background-color: rgba(128, 128, 128, 0.395);
+        border-width:3px;
+        border-left-style: dotted;
+        border-color:rgb(153, 1, 1);
+        text-align: 30px;
+        margin: 80px;
+
+    }
+
+table {
+    width: 60%;
+    
+}
+
+caption {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+
+}
+
+td {
+    text-align: center;
+
+}
+
+footer {
+    background-color: rgba(95, 158, 160, 0.142);
+}
+
+form { 
+    text-align: right;
+}
+
+p{
+	font-size: 12px;
+	font-family: Arial, sans-serif;
+	color: rgb(53, 0, 53);
+}

@@ -57,7 +57,7 @@ En résumé, représentons ce dialogue sous forme de tableau
 
 <table>
 
-          <caption>Tableau représentant la philosophie du fermier.</caption>
+      
 
    <tr>
 
